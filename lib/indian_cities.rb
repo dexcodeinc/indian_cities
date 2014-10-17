@@ -1,6 +1,6 @@
 module IndianCities
   CITIES = {
-    "Maharashtra": [
+    "Maharashtra" => [
       "Achalpur",
       "Ahmednagar",
       "Akola",
@@ -124,7 +124,7 @@ module IndianCities
       "Yawal",
       "Yevla"
     ],
-    "Uttar Pradesh": [
+    "Uttar Pradesh" => [
       "Achhnera",
       "Agra",
       "Aligarh",
@@ -241,7 +241,7 @@ module IndianCities
       "Zaidpur",
       "Zamania"
     ],
-    "Gujarat": [
+    "Gujarat" => [
       "Adalaj",
       "Ahmedabad",
       "Amreli",
@@ -314,7 +314,7 @@ module IndianCities
       "Wadhwan",
       "Wankaner"
     ],
-    "Telangana": [
+    "Telangana" => [
       "Adilabad",
       "Bellampalle",
       "Bhadrachalam",
@@ -356,7 +356,7 @@ module IndianCities
       "Warangal",
       "Yellandu"
     ],
-    "Jharkhand": [
+    "Jharkhand" => [
       "Adityapur",
       "Bokaro Steel City",
       "Chaibasa",
@@ -385,7 +385,7 @@ module IndianCities
       "Simdega",
       "Tenu dam-cum-Kathhara"
     ],
-    "Andhra Pradesh": [
+    "Andhra Pradesh" => [
       "Adoni",
       "Amalapuram",
       "Anakapalle",
@@ -469,7 +469,7 @@ module IndianCities
       "Yemmiganur",
       "Yerraguntla"
     ],
-    "Kerala": [
+    "Kerala" => [
       "Adoor",
       "Alappuzha",
       "Chalakudy",
@@ -521,7 +521,7 @@ module IndianCities
       "Vaikom",
       "Varkala"
     ],
-    "Karnataka": [
+    "Karnataka" => [
       "Adyar",
       "Afzalpur",
       "Arsikere",
@@ -604,7 +604,7 @@ module IndianCities
       "Wadi",
       "Yadgir"
     ],
-    "West Bengal": [
+    "West Bengal" => [
       "Adra",
       "Alipurduar",
       "Arambagh",
@@ -646,7 +646,7 @@ module IndianCities
       "Tamluk",
       "Tarakeswar"
     ],
-    "Tripura": [
+    "Tripura" => [
       "Agartala*",
       "Belonia",
       "Dharmanagar",
@@ -655,12 +655,12 @@ module IndianCities
       "Pratapgarh",
       "Udaipur"
     ],
-    "Mizoram": [
+    "Mizoram" => [
       "Aizawl",
       "Lunglei",
       "Saiha"
     ],
-    "Rajasthan": [
+    "Rajasthan" => [
       "Ajmer",
       "Alwar",
       "Bikaner",
@@ -734,7 +734,7 @@ module IndianCities
       "Udaipurwati",
       "Vijainagar, Ajmer"
     ],
-    "Chhattisgarh": [
+    "Chhattisgarh" => [
       "Ambikapur",
       "Bhatapara",
       "Bhilai Nagar",
@@ -755,7 +755,7 @@ module IndianCities
       "Sakti",
       "Tilda Newra"
     ],
-    "Punjab": [
+    "Punjab" => [
       "Amritsar",
       "Barnala",
       "Batala",
@@ -811,7 +811,7 @@ module IndianCities
       "Zira",
       "Zirakpur"
     ],
-    "Jammu and Kashmir": [
+    "Jammu and Kashmir" => [
       "Anantnag",
       "Baramula",
       "Jammu",
@@ -822,7 +822,7 @@ module IndianCities
       "Srinagar*",
       "Udhampur"
     ],
-    "Tamil Nadu": [
+    "Tamil Nadu" => [
       "Arakkonam",
       "Aruppukkottai",
       "Chennai*",
@@ -935,7 +935,7 @@ module IndianCities
       "Virudhunagar",
       "Viswanatham"
     ],
-    "Bihar": [
+    "Bihar" => [
       "Araria",
       "Arrah",
       "Arwal",
@@ -1007,7 +1007,7 @@ module IndianCities
       "Supaul",
       "Warisaliganj"
     ],
-    "Madhya Pradesh": [
+    "Madhya Pradesh" => [
       "Ashok Nagar",
       "Balaghat",
       "Bhopal",
@@ -1090,7 +1090,7 @@ module IndianCities
       "Vijaypur",
       "Wara Seoni"
     ],
-    "Uttarakhand": [
+    "Uttarakhand" => [
       "Bageshwar",
       "Dehradun",
       "Haldwani-cum-Kathgodam",
@@ -1109,7 +1109,7 @@ module IndianCities
       "Sitarganj",
       "Tehri"
     ],
-    "Haryana": [
+    "Haryana" => [
       "Bahadurgarh",
       "Bhiwani",
       "Charkhi Dadri",
@@ -1148,7 +1148,7 @@ module IndianCities
       "Tohana",
       "Yamunanagar"
     ],
-    "Odisha": [
+    "Odisha" => [
       "Balangir",
       "Baleshwar Town",
       "Barbil",
@@ -1183,7 +1183,7 @@ module IndianCities
       "Tarbha",
       "Titlagarh"
     ],
-    "Assam": [
+    "Assam" => [
       "Barpeta",
       "Bongaigaon City",
       "Dhubri",
@@ -1210,20 +1210,20 @@ module IndianCities
       "Tezpur",
       "Tinsukia"
     ],
-    "Chandigarh": [
+    "Chandigarh" => [
       "Chandigarh*"
     ],
-    "Gujrat": [
+    "Gujrat" => [
       "Chhapra"
     ],
-    "Delhi": [
+    "Delhi" => [
       "Delhi",
       "New Delhi*"
     ],
-    "Orissa": [
+    "Orissa" => [
       "Dhenkanal"
     ],
-    "Nagaland": [
+    "Nagaland" => [
       "Dimapur",
       "Kohima*",
       "Mokokchung",
@@ -1231,47 +1231,47 @@ module IndianCities
       "Wokha",
       "Zunheboto"
     ],
-    "Manipur": [
+    "Manipur" => [
       "Imphal*",
       "Lilong",
       "Mayang Imphal",
       "Thoubal"
     ],
-    "Puducherry": [
+    "Puducherry" => [
       "Karaikal",
       "Mahe",
       "Pondicherry*",
       "Yanam"
     ],
-    "Himachal Pradesh": [
+    "Himachal Pradesh" => [
       "Mandi",
       "Nahan",
       "Shimla*",
       "Solan",
       "Sundarnagar"
     ],
-    "Goa": [
+    "Goa" => [
       "Mapusa",
       "Margao",
       "Marmagao",
       "Panaji*"
     ],
-    "Arunachal Pradesh": [
+    "Arunachal Pradesh" => [
       "Naharlagun",
       "Pasighat"
     ],
-    "Meghalaya": [
+    "Meghalaya" => [
       "Nongstoin",
       "Shillong*",
       "Tura"
     ],
-    "Andaman and Nicobar Islands": [
+    "Andaman and Nicobar Islands" => [
       "Port Blair*"
     ],
-    "Dadra and Nagar Haveli": [
+    "Dadra and Nagar Haveli" => [
       "Silvassa*"
     ]
   }
-  
-  PROVINCES = CITIES.keys
+
+  PROVINCES = CITIES.keys.sort
 end

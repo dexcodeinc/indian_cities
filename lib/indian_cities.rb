@@ -1213,9 +1213,6 @@ module IndianCities
     "Chandigarh" => [
       "Chandigarh*"
     ],
-    "Gujrat" => [
-      "Chhapra"
-    ],
     "Delhi" => [
       "Delhi",
       "New Delhi*"
